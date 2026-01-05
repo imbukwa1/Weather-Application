@@ -16,7 +16,7 @@ Tech Stack
 Java
 
 Android Studio
-
+ 
 OpenWeatherMap API
 
 JSON
